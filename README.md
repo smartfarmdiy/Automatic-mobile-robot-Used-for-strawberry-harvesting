@@ -3,7 +3,6 @@ My work involves building an autonomous mobile car robot. Used for picking straw
 * Before you start I recommend that you research the scope of your strawberry picker robot project or the objects you need to move. You should study the movement, type of wheels, type of robot, and how the robot works. Work control orders, ROS and research related to your work. My scope of work involves a strawberry picking robot.
 -----------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------------------
 # Install Oracle VM VirtualBox
 * Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely .. 
 * [VirtualBox](https://www.virtualbox.org/)  I used VirtualBox 6.1 for this work.
@@ -29,6 +28,8 @@ You can choose the version that interests you.
 ![Screenshot 2023-10-30 142158](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/3d4f13bc-441d-4ffe-8ad8-84b81be509b7)
 ![Screenshot 2023-10-30 142228](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/d21a1f84-606b-43f7-b505-5a12921eae35)
 * will be shown to you The storage space will be recreated. We can press create immediately.
+  
+------------------------------------------------------------------------------------------------------------
 
   
 
