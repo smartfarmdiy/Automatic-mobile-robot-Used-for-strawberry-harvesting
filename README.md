@@ -35,9 +35,18 @@ You can choose the version that interests you.
 # Install ROS on Ubuntu
 You can get to know ROS and install the version you want from - [ ROS ](https://ubuntu.com/download/desktop](https://www.ros.org/)https://www.ros.org/) -//-
  [ Wiki-ROS ](https://wiki.ros.org/Documentation) -
- * I recommend that you research ROS well. My example is ROS Noetic.
+ * I recommend that you research ROS well. My example is ROS Noetic. [ ROS Noetic Install ](https://wiki.ros.org/noetic/Installation/Ubuntu) 
    <pre>
      sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+   </pre>
+   
+    <pre>
+     sudo apt install curl # if you haven't already installed curl
+      curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
+   </pre>
+   
+    <pre>
+    sudo apt update
    </pre>
  
 
