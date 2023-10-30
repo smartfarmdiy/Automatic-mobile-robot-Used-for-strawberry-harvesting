@@ -18,8 +18,8 @@ You can choose the version that interests you.
 * [ Ubuntu ](https://ubuntu.com/download/desktop)  I used Ubuntu 20.04 for this work.
 
 # Install Ubuntu on VirtualBox
-* ![image](![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/c12c79b8-67ad-4cb9-837b-8d1c8872c317)
-)
+* ![image](Screenshot 2023-10-30 141250)
+
 * ![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/699eabd9-1eaf-422a-8e44-a84b06061d02)
 * ![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/699eabd9-1eaf-422a-8e44-a84b06061d02)
 * ![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/699eabd9-1eaf-422a-8e44-a84b06061d02)
