@@ -12,3 +12,6 @@ print(""Hello World)
 ------------------------------------------------------------------------------------------------------------
 # Install Oracle VM VirtualBox
 * Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely .. [VirtualBox](https://www.virtualbox.org/)
+I used VirtualBox 6.1 for this work.
+* Once VirtualBox is installed, install the Ubuntu version that you want to use.
+  
