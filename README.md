@@ -54,5 +54,5 @@ You can get to know ROS and install the version you want from - [ ROS ](https://
 # Install Navigation on ROS
 * This section has a lot of details. If you are interested, try studying information from many places. To be used as a document to create this work. Because there are knowledgeable people who actually teach. Or the solution is Consult those with knowledge nearby, such as Caregiver for projects that interest you
    <pre>
-     print("Good luck!")
+     print(" Good luck! ")
    </pre>
