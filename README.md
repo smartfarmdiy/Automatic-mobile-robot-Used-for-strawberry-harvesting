@@ -28,10 +28,13 @@ You can choose the version that interests you.
 ![Screenshot 2023-10-30 142158](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/3d4f13bc-441d-4ffe-8ad8-84b81be509b7)
 ![Screenshot 2023-10-30 142228](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/d21a1f84-606b-43f7-b505-5a12921eae35)
 * will be shown to you The storage space will be recreated. We can press create immediately.
+* After that, you can see how to set up Ubuntu through different channels on the internet.
   
 ------------------------------------------------------------------------------------------------------------
 
-  
+# Install ROS on Ubuntu
+You can get to know ROS and install the version you want from  [ ROS ](https://ubuntu.com/download/desktop](https://www.ros.org/)https://www.ros.org/)
 
+  
 
 
