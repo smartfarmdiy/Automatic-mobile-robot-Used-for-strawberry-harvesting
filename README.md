@@ -37,7 +37,7 @@ You can get to know ROS and install the version you want from - [ ROS ](https://
  [ Wiki-ROS ](https://wiki.ros.org/Documentation) -
  * I recommend that you research ROS well. My example is ROS Noetic.
    <pre>
-     print ("Hello World")
+     sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
    </pre>
  
 
