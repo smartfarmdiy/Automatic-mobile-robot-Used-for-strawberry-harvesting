@@ -18,11 +18,7 @@ You can choose the version that interests you.
 * [ Ubuntu ](https://ubuntu.com/download/desktop)  I used Ubuntu 20.04 for this work.
 
 # Install Ubuntu on VirtualBox
-* ![Screenshot 2023-10-30 141250](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/cc711b07-7c71-456c-a3db-995f8b6e23bc)
+![Screenshot 2023-10-30 141250](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/e4cc5374-4c50-4d35-afa8-bb67f2ccb02a)
+* Press the create button. To create a Workspace for Ubuntu
 
-* ![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/699eabd9-1eaf-422a-8e44-a84b06061d02)
-* ![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/699eabd9-1eaf-422a-8e44-a84b06061d02)
-* ![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/699eabd9-1eaf-422a-8e44-a84b06061d02)
-* ![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/699eabd9-1eaf-422a-8e44-a84b06061d02)
-* ![image](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/699eabd9-1eaf-422a-8e44-a84b06061d02)
-  
+
