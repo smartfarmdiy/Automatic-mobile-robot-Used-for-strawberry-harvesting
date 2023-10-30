@@ -10,7 +10,7 @@ My work involves building an autonomous mobile car robot. Used for picking straw
 * Once VirtualBox is installed, install the Ubuntu version that you want to use.
 You can choose the version that interests you.
 * [ Ubuntu ](https://ubuntu.com/download/desktop)  I used Ubuntu 20.04 for this work.
-
+------------------------------------------------------------------------------------------------------------
 # Install Ubuntu on VirtualBox
 ![Screenshot 2023-10-30 141250](https://github.com/smartfarmdiy/Automatic-mobile-robot-Used-for-strawberry-harvesting/assets/63504401/e4cc5374-4c50-4d35-afa8-bb67f2ccb02a)
 * Press the create button. To create a Workspace for Ubuntu
